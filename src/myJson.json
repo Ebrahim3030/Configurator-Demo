@@ -1,0 +1,50 @@
+[
+    {
+    "name":"Chain Type",
+    "chart":"",
+    "options": [
+        { "name": "Option1", "image": "ring.png" },
+        { "name": "Option2", "image": "ring.png" },
+        { "name": "Option3", "image": "ring.png" },
+        { "name": "Option4", "image": "ring.png" },
+        { "name": "Option5", "image": "ring.png" },
+        { "name": "Option6", "image": "ring.png" },
+        { "name": "Option7", "image": "ring.png" }
+       
+        
+      ]
+    },
+
+
+    {
+    "name":"Metal Color & Karat",
+    "chart":"Metal Karat Chart",
+    "options": [
+        { "name": "Yellow Gold", "image": "gold.jpg" },
+        { "name": "White Gold", "image": "gold.jpg" },
+        { "name": "Yellow Gold", "image": "gold.jpg" },
+        { "name": "White Gold", "image": "gold.jpg" },
+        { "name": "White Gold", "image": "gold.jpg" }
+      ]
+    },
+
+
+    {
+    "name":"Chain length",
+    "chart":"Chain Size Chart",
+    "options": [
+        { "name": "Option1", "image": "ring.png" },
+        { "name": "Option2", "image": "ring.png" }
+      ]
+     },
+
+
+     {
+     "name":"Diamond Quality",
+     "chart":"",
+     "options": [
+        { "name": "Option1", "image": "ring.png" },
+        { "name": "Option2", "image": "ring.png" }
+      ]
+      }
+]
